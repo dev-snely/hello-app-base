@@ -1,17 +1,17 @@
-# Hello App Base
+# Hello App Base - Socle Technique
 
-Un socle technique minimal pour une application simple, développée dans le cadre d'un laboratoire d'introduction au développement logiciel.
+Cette application est un socle technique minimal pour un Hello-World simple. Elle est développée dans le cadre d'un laboratoire d'introduction au développement logiciel. Ce laboratoire est une introduction au cours et nous invite à créer un envoronnement de développement conteneurisé, versionné et testé automatiquement. On pense alors à plusieurs noms dont: Docker, Github, Tests unitaires et pipeline CI/CD.
 
-## 🎯 Objectif
+## Objectif du laboratoire
 
-Mettre en place une structure de projet claire et réutilisable autour d'une application très simple. Cette application affiche un message dans la console ou répond via un port web avec un message texte.
+Le but de ce laboratoire scolaire est de mettre en place une structure de projet claire et réutilisable. Ce [socle](https://dictionnaire.lerobert.com/definition/socle) technique nous permet par la suite, en tant qu'étudiant, à s'engager dans l'étude des styles architexturaux et des principes de conceptions.  
 
-## 🔧 Technologies utilisées
+## Technologies utilisées
 
 - Langage : Java
 - Structure de projet minimale mais organisée
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Affiche "Hello, World!" dans la console  
   _ou_
