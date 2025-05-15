@@ -1,0 +1,1 @@
+java -cp appbase/target/classes com.example.App

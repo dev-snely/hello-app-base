@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.example.App",
+      "projectName": "appbase"
+    },
+    {
+      "name": "Run Clean Java App (via script)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/run.sh",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
